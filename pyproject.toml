@@ -1,0 +1,15 @@
+[project]
+name = "intro-to-data-science"
+version = "0.1.0"
+description = "A repository to document my weekly progress, notes, and projects for my Introduction to Data Science course."
+requires-python = ">=3.12"
+dependencies = [
+    "numpy",
+    "pandas>=2.3.3",
+    "matplotlib>=3.10.6",
+    "jupyterlab>=4.4.9",
+]
+
+[tool.uv.dev-dependencies]
+jupyterlab = ">=4.4.9"
+matplotlib = ">=3.10.6"
