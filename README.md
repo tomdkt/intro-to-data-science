@@ -32,7 +32,6 @@ It’s a great resource to explore which types of charts work best for different
     - [Pandas Fundamentals](https://www.kaggle.com/learn/pandas)
 
 
-
 ## Data Formats
 - Common: CSV, XLS(X), XML, JSON, TXT.  
 - DS/Big Data: MessagePack, pickle, SAS, HDF, Feather, STATA, etc.  
@@ -52,3 +51,9 @@ Pandas simplifies data loading with functions like:
 - [Johns Hopkins](https://github.com/govex/COVID-19/tree/master/data_tables/vaccine_data)
 - [UCI ML Repo](https://archive.ics.uci.edu/ml/datasets.php)
 - [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
+
+## Books
+- [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
+- [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+- [Python e Mercado Financeiro: Exemplos e Exercícios Resolvidos](https://github.com/GustavoRosso/PythonEMercadoFinanceiro)
