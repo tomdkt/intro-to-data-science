@@ -23,12 +23,13 @@ It’s a great resource to explore which types of charts work best for different
 - **Matplotlib** is one of the most complete plotting libraries and serves as the foundation for many others. However, it often requires more manual setup through code.
 - **Seaborn**, on the other hand, comes with smart defaults that automatically adapt to your data — making it easier to use and visually more appealing.
 
-### The Kaggle 
-competition site also offers courses on various topics. 
-- [Introduction to Data Science](https://www.kaggle.com/learn/intro-to-data-science)
+### The Kaggle competition
+
+- [Introduction to Data Science](https://www.kaggle.com/code/usengecoder/introduction-to-data-science)
 - [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
-- [Advanced Machine Learning](https://www.kaggle.com/learn/advanced-machine-learning)
+- [Advanced Machine Learning](https://www.kaggle.com/competitions/advanced-learning-models)
 - [Pandas Fundamentals](https://www.kaggle.com/learn/pandas)
+
 
 
 ## Data Formats
