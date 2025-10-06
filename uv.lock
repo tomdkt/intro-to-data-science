@@ -516,6 +516,7 @@ dependencies = [
     { name = "numpy" },
     { name = "pandas" },
     { name = "pandas-stubs" },
+    { name = "requests" },
     { name = "seaborn" },
 ]
 
@@ -533,6 +534,7 @@ requires-dist = [
     { name = "numpy" },
     { name = "pandas", specifier = ">=2.3.3" },
     { name = "pandas-stubs", specifier = ">=2.3.2.250926" },
+    { name = "requests", specifier = ">=2.32.5" },
     { name = "seaborn", specifier = ">=0.13.2" },
 ]
 
