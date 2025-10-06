@@ -210,3 +210,4 @@ requirements.txt
 */tmp/
 *.txt
 *.csv
+*.sqlite
