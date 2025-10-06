@@ -24,12 +24,11 @@ It’s a great resource to explore which types of charts work best for different
 - **Seaborn**, on the other hand, comes with smart defaults that automatically adapt to your data — making it easier to use and visually more appealing.
 
 ### The Kaggle 
-    competition site also offers courses on various topics. 
-    ### Kaggle Courses
-    - [Introduction to Data Science](https://www.kaggle.com/learn/intro-to-data-science)
-    - [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
-    - [Advanced Machine Learning](https://www.kaggle.com/learn/advanced-machine-learning)
-    - [Pandas Fundamentals](https://www.kaggle.com/learn/pandas)
+competition site also offers courses on various topics. 
+- [Introduction to Data Science](https://www.kaggle.com/learn/intro-to-data-science)
+- [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning)
+- [Advanced Machine Learning](https://www.kaggle.com/learn/advanced-machine-learning)
+- [Pandas Fundamentals](https://www.kaggle.com/learn/pandas)
 
 
 ## Data Formats
