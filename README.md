@@ -23,8 +23,6 @@ It’s a great resource to explore which types of charts work best for different
 - **Matplotlib** is one of the most complete plotting libraries and serves as the foundation for many others. However, it often requires more manual setup through code.
 - **Seaborn**, on the other hand, comes with smart defaults that automatically adapt to your data — making it easier to use and visually more appealing.
 
-
-
 ### The Kaggle 
     competition site also offers courses on various topics. 
     ### Kaggle Courses
@@ -33,3 +31,24 @@ It’s a great resource to explore which types of charts work best for different
     - [Advanced Machine Learning](https://www.kaggle.com/learn/advanced-machine-learning)
     - [Pandas Fundamentals](https://www.kaggle.com/learn/pandas)
 
+
+
+## Data Formats
+- Common: CSV, XLS(X), XML, JSON, TXT.  
+- DS/Big Data: MessagePack, pickle, SAS, HDF, Feather, STATA, etc.  
+- You often can’t choose the data format.
+
+## Pandas
+Pandas simplifies data loading with functions like:
+- `read_csv()` – CSV or URL
+- `read_excel()` – Excel (XLS/XLSX)
+- `read_html()` – HTML tables
+- `read_json()` – JSON strings  
+  More formats in the [docs](https://pandas.pydata.org/docs/).
+
+## Public Data Sources
+- [Kaggle](https://www.kaggle.com/datasets)
+- [Dados Gov BR](https://dados.gov.br/dataset)
+- [Johns Hopkins](https://github.com/govex/COVID-19/tree/master/data_tables/vaccine_data)
+- [UCI ML Repo](https://archive.ics.uci.edu/ml/datasets.php)
+- [Awesome Datasets](https://github.com/awesomedata/awesome-public-datasets)
