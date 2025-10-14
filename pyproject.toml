@@ -17,6 +17,7 @@ dependencies = [
     "ydata-profiling>=4.12.2",
     "yfinance>=0.2.66",
     "scikit-learn>=1.7.2",
+    "kaggle>=1.7.4.5",
 ]
 
 [dependency-groups]

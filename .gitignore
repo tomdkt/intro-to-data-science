@@ -212,3 +212,5 @@ requirements.txt
 *.csv
 *.sqlite
 *.html
+kaggle.json
+*.png
