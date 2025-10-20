@@ -18,6 +18,9 @@ Machine Learning (ML) allows computers to learn patterns and make decisions from
 
 ML is about creating models that generalize from data to make predictions or uncover hidden patterns efficiently.
 
+- Overfitting: The model learns the training data too well, including its noise. It performs well on training data but poorly on new data.
+- Underfitting: The model is too simple and fails to learn the underlying pattern. It performs poorly on both training and new data.
+
 ## References
 
 - Shutt, R. & O’Neil, C. (2014). *Doing Data Science*
