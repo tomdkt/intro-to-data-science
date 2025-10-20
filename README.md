@@ -8,6 +8,7 @@ It provides tools for model tuning, data preprocessing, model selection and eval
 Built on top of NumPy, SciPy, and Matplotlib.
 Later in this course, we’ll explore Machine Learning in depth, and Scikit-learn will be the main library for all our implementations.
 - [scikit-learn Machine Learning in Python](https://scikit-learn.org/stable/index.html)
+- [ML algorithms](https://scikit-learn.org/stable/user_guide.html)
 
 ## Mastering Data Visualization
 
