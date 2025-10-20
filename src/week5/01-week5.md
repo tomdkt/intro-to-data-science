@@ -11,7 +11,9 @@ Machine Learning (ML) allows computers to learn patterns and make decisions from
     - *Reinforcement:* Learning from trial-and-error feedback.
 - **Modeling:** ML algorithms induce functions or hypotheses to solve problems.
 - **Tools:** Scikit-Learn provides ready-to-use ML algorithms for various tasks.
-  - [ML algorithms](https://scikit-learn.org/stable/user_guide.html)
+  - [scikit-learn Machine Learning in Python](https://scikit-learn.org/stable/index.html)
+  - [scikit-learn user guide](https://scikit-learn.org/stable/user_guide.html)
+  - [scikit-learn ML algorithms](https://scikit-learn.org/stable/auto_examples/index.html)
 - **Workflow:** Preprocess data → Train model → Test/validate model.
 
 ML is about creating models that generalize from data to make predictions or uncover hidden patterns efficiently.
